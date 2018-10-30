@@ -42,6 +42,7 @@ organizing we just started intuitively *using* our name (Open Source Design) and
 it stuck. The reasons we feel good about this choice are:
 
 1. The Free as in beer / freedom confusion
+(https://en.wikipedia.org/wiki/Gratis_versus_libre)
 2. Free Software is older and has a specific community, culture, and goals
 3. Open source is a newer term and can have broader goals
 4. Open source has done a better job at outreach and has broader public
